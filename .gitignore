@@ -1,0 +1,3 @@
+# remove gulp from git
+/config
+.DS_Store
